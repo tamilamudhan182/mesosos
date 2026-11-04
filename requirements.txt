@@ -1,0 +1,7 @@
+flask>=2.2
+cryptography>=41
+psutil>=5.9
+matplotlib>=3.6
+numpy>=1.23
+python-docx>=1.0
+pytest>=7
